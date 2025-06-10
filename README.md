@@ -60,6 +60,7 @@ This lab project focuses on **developing a consumer classification model** to pr
 - **Evaluation Metrics:** Accuracy, Confusion Matrix, Precision, Recall  
 - **Performance:** Decent but sensitive to feature scaling.
 ![Confusion Matrix](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/KNN%20Confusion-Matrix.png?raw=true)
+![ROC Curve](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/KNN%20ROC-Curve.png?raw=true)
 
 ### 2. Logistic Regression
 
