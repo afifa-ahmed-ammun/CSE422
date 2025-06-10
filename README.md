@@ -86,6 +86,7 @@ This lab project focuses on **developing a consumer classification model** to pr
 | Neural Network     | Best     | Capturing non-linear patterns  |
 
 - **ROC Curve**, **AUC**, and **confusion matrices** were used for performance comparison.
+![Model Comparison](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/Screenshot%202025-06-10%20140409.png?raw=true)
 
 ---
 
