@@ -22,6 +22,7 @@ This lab project focuses on **developing a consumer classification model** to pr
 - **Output Feature:** `Churn` (binary: 0 = not churned, 1 = churned)  
 - **Data Source:** [Google Drive Link](https://drive.google.com/file/d/1pg5z2_6OJsdd7VxGEfa8oXAihYq1KYtV/view)  
 - **Balance:** Dataset is balanced (757 class 0, 743 class 1)
+  ![Heatmap](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/heatmap.png?raw=true)
 
 ### 🔍 Correlation Insights
 
