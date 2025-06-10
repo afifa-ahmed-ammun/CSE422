@@ -67,7 +67,7 @@ This lab project focuses on **developing a consumer classification model** to pr
 - **Strengths:** Interpretable, solid baseline  
 - **Metrics Used:** Accuracy, F1 Score, Confusion Matrix  
 - **Performance:** Good, handles binary classification well.
-
+![ROC Curve](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/ROC%20Curve.png?raw=true)
 ### 3. Neural Network (MLP)
 
 - **Structure:** Input layer → Hidden Layer(s) with ReLU → Output layer with Sigmoid  
