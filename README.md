@@ -48,6 +48,7 @@ This lab project focuses on **developing a consumer classification model** to pr
   ![Churn Distribution](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/Churn%20Distribution.png?raw=true)
   EDA:
   ![Age Distribution](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/Distribution%20Of%20Age.png?raw=true)
+  ![Credit Score Distribution](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/Distribution%20Of%20Credit-Score.png?raw=true)
 
 ---
 
