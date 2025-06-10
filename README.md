@@ -60,6 +60,7 @@ This lab project focuses on **developing a consumer classification model** to pr
 - **Evaluation Metrics:** Accuracy, Confusion Matrix, Precision, Recall  
 - **Performance:** Decent but sensitive to feature scaling.
 
+
 ### 2. Logistic Regression
 
 - **Strengths:** Interpretable, solid baseline  
