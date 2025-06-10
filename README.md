@@ -73,7 +73,7 @@ This lab project focuses on **developing a consumer classification model** to pr
 - **Structure:** Input layer → Hidden Layer(s) with ReLU → Output layer with Sigmoid  
 - **Metrics:** Accuracy, Precision, Recall, AUC  
 - **Performance:** Best overall in terms of accuracy and AUC.
-
+![Confusion Matrix](https://github.com/afifa-ahmed-ammun/CSE422/blob/main/422_Project_Pictures/NN%20Confusion_Matrix.png?raw=true)
 ---
 
 ## 📊 Model Comparison
